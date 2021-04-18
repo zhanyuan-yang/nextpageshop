@@ -1,9 +1,10 @@
 <template>
   <div class="hello">
+     
     <h1>{{ msg }}</h1>
     <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem alias rem vitae, praesentium harum explicabo accusamus error voluptatum minima quas, temporibus laudantium iure ullam delectus consequuntur ut nam placeat odio.
-    </p>
+
+     </p>
      
      
   </div>

@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <HelloWorld msg="Welcome to Nextpageshop.com"/>
+    <HelloWorld msg="Under Construction"/>
   </div>
 </template>
 
